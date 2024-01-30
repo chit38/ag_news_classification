@@ -24,7 +24,7 @@ Link to the dataset - https://www.kaggle.com/datasets/amananandrai/ag-news-class
 ![image](https://github.com/chit38/ag_news_classification/assets/47925131/c96ae89e-0616-403a-aafa-68f585fb0962)
 
 
-## fine-tuned Bert transformer results
+## Fine-tuned Bert transformer results
 1. train_loss = 0.40
 2. train_accuracy - 0.86
 3. test_loss - 0.36
